@@ -2,7 +2,7 @@
 I'm Kholani Benelzane
 Currently in my third year, studying Applications Development
 in the Cape Peninsula University of technology.
-I create and design basic websites and web applications.
+I create and design websites, web applications and desktop applications.
 I love working with:
 JavaScript, HTML, CSS and PHP.
 
