@@ -1,5 +1,11 @@
 ### Hi there 👋
+I'm Kholani Benelzane
+Currently in my third year studying Applications Development in the Cape Peninsula University of technology.
+I create and design basic websites and web applications part.
+I love working with:
+JavaScript, HTML, CSS and PHP.
 
+I'm currently learning react native and looking to collaborate on Javascript projects.
 <!--
 **ColeColombia/ColeColombia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
