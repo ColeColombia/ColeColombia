@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Kholani Benelzane
-I create and design websites, web applications and desktop applications.
+I create and design websites, 
+web applications and
+desktop applications.
 I love working with:
 JavaScript, HTML, CSS and PHP.
 
